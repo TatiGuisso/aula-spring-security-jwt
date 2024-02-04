@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springsecutiry</groupId>
-	<artifactId>fiap</artifactId>
+	<artifactId>jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fiap</name>
-	<description>Demo project for Spring Boot</description>
+	<name>jwt</name>
+	<description>Spring Security e JWT</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
